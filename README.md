@@ -3,3 +3,4 @@ This is the Go-Kart repositiory meant to hold all information pertaining to the 
 Software, circuit board designs, schematics, and diagnostic tools for this project can be located here
 ------------------------------------------------------------------------------------------------------------------
 Happy building folks!
+Ryan was here!
